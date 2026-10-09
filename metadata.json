@@ -1,0 +1,6 @@
+{
+  "name": "GeoMeasure Pro",
+  "description": "Professional geospatial file analysis workspace for KML and Shapefile datasets with interactive GIS map, synchronized feature inspector, and projected planar measurements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
